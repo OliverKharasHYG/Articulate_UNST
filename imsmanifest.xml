@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6GnLwRiwv3f" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">UNST-Oliver-ViewLink</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">UNST-Oliver-ViewLink</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="UNST-Oliver-ViewLink_ORG">
+    <organization identifier="UNST-Oliver-ViewLink_ORG">
+      <title>UNST-Oliver-ViewLink</title>
+      <item identifier="UNST-Oliver-ViewLink_SCO" isvisible="true" identifierref="__6GnLwRiwv3f_RES">
+        <title>UNST-Oliver-ViewLink</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6GnLwRiwv3f_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6oE7Vkr26dA.png" />
+      <file href="mobile/6Yka21JL4hF.png" />
+      <file href="mobile/6RsDmqUBjtU.jpg" />
+      <file href="mobile/5VKaJ89toWf.jpg" />
+      <file href="mobile/6pSLgTsUWvM.jpg" />
+      <file href="mobile/6Yzs6XHS41o.jpg" />
+      <file href="mobile/5t6g61FIL67.jpg" />
+      <file href="mobile/5XvzrDuR6Hb.jpg" />
+      <file href="mobile/5gluGh93M8p.jpg" />
+      <file href="mobile/6i7l8XrSHeL.jpg" />
+      <file href="story_content/6hYQbsQlW4c.js" />
+      <file href="mobile/6SzQkduK41T.png" />
+      <file href="mobile/6jf9E00DaLM.png" />
+      <file href="mobile/6keGlQNInU2_P_82_0_602_288.png" />
+      <file href="mobile/6psCSGFilR1_P_45_66_174_54.png" />
+      <file href="mobile/66VDT32y9pa.png" />
+      <file href="mobile/6nkJtstVHf1.png" />
+      <file href="mobile/5UjJsl5CiT4.png" />
+      <file href="mobile/6RbSPhBVoii.png" />
+      <file href="mobile/6R5E5dj4XGO.png" />
+      <file href="mobile/5i2lnsRPe8M.png" />
+      <file href="mobile/6SM0meg3iqw.png" />
+      <file href="mobile/6hJeUzaERDp.png" />
+      <file href="mobile/6VDDpOlNhOU.png" />
+      <file href="mobile/6m0WzCO9FeO_P_0_220_2048_785.jpg" />
+      <file href="meta.xml" />
+      <file href="mobile/5W7UFDjUWIE.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_Hover_5viUdUB375W.png" />
+      <file href="mobile/txt__default_Hover_5YQmHOLOuVn.png" />
+      <file href="mobile/txt__default_Hover_62gmE0txZBd.png" />
+      <file href="mobile/txt__default_Hover_5qQbyNUbWm6.png" />
+      <file href="mobile/txt__default_Hover_6QCIMDuEZm6.png" />
+      <file href="mobile/txt__default_Hover_6Ywh7jN6exj.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5oFL8NQt4pH.js" />
+      <file href="html5/data/js/5zmBuNL1RJ2.js" />
+      <file href="html5/data/js/5zpXdXneTjd.js" />
+      <file href="html5/data/js/65jHngMaTU9.js" />
+      <file href="html5/data/js/6eSQu5p4QfA.js" />
+      <file href="html5/data/js/6Xf9luCHRyd.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
